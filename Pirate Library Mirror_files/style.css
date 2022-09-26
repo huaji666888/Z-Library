@@ -1,0 +1,32 @@
+* {
+box-sizing: border-box;
+}
+html, body {
+margin: 0;
+padding: 0;
+}
+body {
+max-width: 700px;
+margin: 0 auto;
+padding: 20px;
+font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+font-size: 16px;
+line-height: 1.45;
+}
+a, a:visited {
+color: #333;
+}
+a:hover, a:focus {
+color: #999;
+}
+h2, h3 {
+margin-top: 1em;
+}
+blockquote {
+border-left: 10px solid #999;
+padding-left: 1em;
+margin: 0;
+}
+ul {
+list-style-type: disclosure-closed;
+}
